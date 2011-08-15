@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require 'rubygems'
+require 'jeog/cli'
+require 'jeog/version'
+
+Jeog::Cli.go

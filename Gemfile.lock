@@ -1,0 +1,18 @@
+PATH
+  remote: .
+  specs:
+    jeog (0.0.1)
+      multi_json (~> 1.0.3)
+      trollop (~> 1.16.2)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    multi_json (1.0.3)
+    trollop (1.16.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jeog!
